@@ -11,4 +11,7 @@ In principe hebben wij met ons project een positieve impact op alle kerndoelen v
 
 ## Doelgroep: welke, hoe groot, belang
 
+In het eerste geval zal het project natuurlijk alleen betrekking hebben op studenten en onderwijzers aan de Universiteit van Amsterdam, daar wij het hier ontwikkelen. Echter: het project is free-and-open-source (wordt waarschijnlijk uitgegeven onder de GPL-licentie), en dus zowel in technische zin als theoretische zin bedoeld om veelvoudig te worden geinstantieerd, niet alleen in de breedte maar in ook diepte. Dit wil zeggen dat wij een brede adoptie van het onderliggende technologie voor ogen hebben (en sterker nog, het project wordt dusdanig ontwikkeld dat, mits eindgebruikers drastische veranderingen aanbrengen in de code, alle zulksoortige instanties zullen kunnen communiceren met dezelfde back-end); de bedoeling is niet alleen dat ons systeem toegepast wordt op meerdere universiteiten en hogescholen, maar dat het verwerkt kan worden in elke context waar er systematisch wordt geleerd (alle niveaus van onderwijs, het bedrijfswereld, nonprofit-instellingen, et cetera). 
+
 ## Impact op betrokken instelling
+
