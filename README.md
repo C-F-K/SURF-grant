@@ -15,7 +15,7 @@ In het eerste geval zal het project natuurlijk alleen betrekking hebben op stude
 
 ## Impact op betrokken instelling
 
-Zoals hierboven uiteengezet is de bedoeling dat de betrokken onderwijsinstellingen (dwz. de Universiteit van Amsterdam, in eerste instantie) niet als enige baat hebben bij ons succes; echter, daar het aan de Universiteit van Amsterdam wordt ontwikkeld zullen wij de eerste zijn die profiteren van het verhoogd rendement op onderwijs en de impliciete democratisering van bovengenoemde. Ook zullen wij des te sneller kunnen profiteren van feedback van gebruikers en deze verwerken in opeenvolgende versies, daar deze gebruikers verbonden zijn met dezelfde instelling.
+Zoals hierboven uiteengezet is de bedoeling dat de betrokken onderwijsinstellingen (dwz. de Universiteit van Amsterdam, in eerste instantie) niet als enige baat hebben bij ons succes; echter, daar het aan de Universiteit van Amsterdam wordt ontwikkeld zullen wij de eerste zijn die profiteren van het verhoogd rendement op onderwijs en de impliciete democratisering van bovengenoemde. Ook zullen wij des te sneller kunnen profiteren van feedback van gebruikers en deze verwerken in opeenvolgende versies, daar deze gebruikers verbonden zijn met dezelfde instelling. Ten slotte wordt de totale hoeveelheid aan productieve data en bronnen vermenigvuldigd met het aantal deelnemende instellingen; hoe breder ons systeem wordt geadopteerd, hoe groter het aanbod van op de daarmee samengestelde paths gebaseerd onderwijs, waar bijkomt dat dit alles op onze hardware wordt gehost en dus bij uitstek beschikbaar is.
 
 
 Beoogd resultaat
