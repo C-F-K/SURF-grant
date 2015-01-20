@@ -18,10 +18,10 @@ In het eerste geval zal het project natuurlijk alleen betrekking hebben op stude
 Zoals hierboven uiteengezet is de bedoeling dat de betrokken onderwijsinstellingen (dwz. de Universiteit van Amsterdam, in eerste instantie) niet als enige baat hebben bij ons succes; echter, daar het aan de Universiteit van Amsterdam wordt ontwikkeld zullen wij de eerste zijn die profiteren van het verhoogd rendement op onderwijs en de impliciete democratisering van bovengenoemde. Ook zullen wij des te sneller kunnen profiteren van feedback van gebruikers en deze verwerken in opeenvolgende versies, daar deze gebruikers verbonden zijn met dezelfde instelling. Ten slotte wordt de totale hoeveelheid aan productieve data en bronnen vermenigvuldigd met het aantal deelnemende instellingen; hoe breder ons systeem wordt geadopteerd, hoe groter het aanbod van op de daarmee samengestelde paths gebaseerd onderwijs, waar bijkomt dat dit alles op onze hardware wordt gehost en dus bij uitstek beschikbaar is.
 
 
-Beoogd resultaat (9-10 lines each)
+Beoogd resultaat
 ================
 
-## resultaten SMART
+## 2.1 resultaten SMART
 
 - Specifiek
 
@@ -43,13 +43,15 @@ Het project is opgedeeld in front-end en back-end, die afzonderlijk van elkaar k
 
 Verwachting is dat de resultaten zullen worden opgeleverd na een maand lange sprint (dwz. &eacute;&eacute;n enkele development-cyclus gebaseerd op het Scrum-ontwikkelingsproces). 
 
-## wat gebruikt CC-licentie, wat is open
+## 2.2 wat gebruikt CC-licentie, wat is open
 
 De Creative Commons-licentie is bedoeld voor data en niet voor code; daar ons project een software-applicatie omvat is de GNU GPL toepasselijker, mede omdat deze specifiek voor software is bedoeld en vergelijkbare vrijheden garandeert. Echter, daar ons project een content-management systeem omvat heeft deze geen noodzakelijke relatie ten opzichte van het gelden dan wel niet gelden van rechten omtrent de betreffende content: alle content kan deel uitmaken van een path, daar ons systeem het alleen in gestructureerde vorm weergeeft - de Curator van een path is de eindverantwoordelijke voor eventuele rechten en plichten omtrent de dusdanig gelinkte data. 
 
 Daarnaast veronderstellen wij dat alle aspecten van "open" van toepassing zijn op ons project. Van nature zijn web-applicaties in beginsel op alle tijden, vanaf elke locatie, en zonder toegangseisen beschikbaar, en zullen wij niet trachten om deze intrinsieke openheid te verhinderen; daar het project geen intrinsieke programma kent maar ertoe dient om deze te structureren in paths kent het maximale openheid van programma, en zullen er ten slotte vanzelfsprekend geen extra kosten gerekend worden voor het gebruik van ons systeem.
 
-## hoe is het nieuw en hoe nieuw is het
+## 2.3 hoe is het nieuw en hoe nieuw is het
+
+Zoals reeds boven vermeld omvat ons project een conceptie van de relatie tussen student en onderwijzer die 
 
 ## hoe sluit het aan bij profiel uva
 
