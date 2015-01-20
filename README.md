@@ -51,7 +51,7 @@ Daarnaast veronderstellen wij dat alle aspecten van "open" van toepassing zijn o
 
 ## 2.3 hoe is het nieuw en hoe nieuw is het
 
-Zoals reeds boven vermeld omvat ons project een conceptie van de relatie tussen student en onderwijzer die 
+Zoals reeds boven vermeld omvat ons project een conceptie van de relatie tussen student en onderwijzer die toe is aan wat 
 
 ## hoe sluit het aan bij profiel uva
 
