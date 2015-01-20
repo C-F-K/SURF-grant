@@ -41,9 +41,13 @@ Het project is opgedeeld in front-end en back-end, die afzonderlijk van elkaar k
 
 - Tijdsgebonden
 
-Verwachting is dat de resultaten zullen worden opgeleverd na een maand lange sprint (dwz. een development-cyclus gebaseerd op het Scrum-ontwikkelingsproces). 
+Verwachting is dat de resultaten zullen worden opgeleverd na een maand lange sprint (dwz. &eacute;&eacute;n enkele development-cyclus gebaseerd op het Scrum-ontwikkelingsproces). 
 
-## wat gebruikt CC-licentie, wat is open (5x)
+## wat gebruikt CC-licentie, wat is open
+
+De Creative Commons-licentie is bedoeld voor data en niet voor code; daar ons project een software-applicatie omvat is de GNU GPL toepasselijker, mede omdat deze specifiek voor software is bedoeld en vergelijkbare vrijheden garandeert. Echter, daar ons project een content-management systeem omvat heeft deze geen noodzakelijke relatie ten opzichte van het gelden dan wel niet gelden van rechten omtrent de betreffende content: alle content kan deel uitmaken van een path, daar ons systeem het alleen in gestructureerde vorm weergeeft - de Curator van een path is de eindverantwoordelijke voor eventuele rechten en plichten omtrent de dusdanig gelinkte data. 
+
+Daarnaast veronderstellen wij dat alle aspecten van "open" van toepassing zijn op ons project. Van nature zijn web-applicaties in beginsel op alle tijden, vanaf elke locatie, en zonder toegangseisen beschikbaar, en zullen wij niet trachten om deze intrinsieke openheid te verhinderen; daar het project geen intrinsieke programma kent maar ertoe dient om deze te structureren in paths kent het maximale openheid van programma, en zullen er ten slotte vanzelfsprekend geen extra kosten gerekend worden voor het gebruik van ons systeem.
 
 ## hoe is het nieuw en hoe nieuw is het
 
